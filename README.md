@@ -11,3 +11,5 @@ Compatible with all iPhones after iPhone SE (2nd version), inclusive, and compat
 Compatible with iOS 13 and above.
 
 NOTE: The code and demo will be posted once the app development is complete.
+
+This project is under the MIT License.
