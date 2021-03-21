@@ -4,7 +4,7 @@
 
 ## This application is currently under development.
 
-Speedy Math is a self developed iOS application that is intended for young children to enjoy practicing their arithemtic skills - addition, subtraction, multiplication, and division. The app has a colorful and user-friendly interface.
+Speedy Math is a self developed iOS application that is intended for young children to have fun practicing their arithemtic skills - addition, subtraction, multiplication, and division. The app has a colorful and user-friendly interface.
 
 Compatible with all iPhones after iPhone SE (2nd version), inclusive, and compatible with all iPads.
 
