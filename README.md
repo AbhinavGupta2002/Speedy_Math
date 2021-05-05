@@ -10,4 +10,6 @@ Compatible with all iPhones after iPhone SE (2nd version), inclusive, and compat
 
 Compatible with iOS 13 and above.
 
+NOTE: No documentation has been provided for the swift files.
+
 This project is under the MIT License.
